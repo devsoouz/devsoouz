@@ -28,11 +28,7 @@ Atualmente, meu foco é dominar a criação de layouts semânticos e responsivos
 
 ### 📊 Minhas Estatísticas
 
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devsoouz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsoouz&layout=compact&theme=dracula"/>
-</div>
-
+![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=devsoouz)
 ---
 
 ### 📫 Contato
