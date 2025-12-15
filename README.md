@@ -41,11 +41,10 @@
 <br/>
 
 ### 📊 Meus Números
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devsoouz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
   
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsoouz&layout=compact&theme=radical&hide_border=true"/>
+  ![devsoouz's GitHub stats](https://github-readme-stats.vercel.app/api?username=devsoouz&show_icons=true&theme=dark)
+  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsoouz&layout=compact&theme=dark&hide_border=true"/>
 </div>
 
 <br/>
