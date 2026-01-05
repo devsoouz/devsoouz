@@ -40,15 +40,6 @@
 
 <br/>
 
-### 📊 Meus Números
-  
-  ![devsoouz's GitHub stats](https://github-readme-stats.vercel.app/api?username=devsoouz&show_icons=true&theme=dark)
-  
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsoouz&layout=compact&theme=dark&hide_border=true"/>
-</div>
-
-<br/>
-
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="max-width: 600px; border-radius: 10px;">
 </div>
