@@ -9,7 +9,7 @@
   <br/>
 
   <p align="center">
-    Estudante de <b>Análise e Desenvolvimento de Sistemas</b> transformando café em código. ☕<br>
+    Estudante de <b>Análise e Desenvolvimento de Sistemas</b><br>
     Meu foco é criar interfaces limpas, responsivas e intuitivas. Atualmente aprofundando os estudos no ecossistema <b>JavaScript</b>.
   </p>
 
